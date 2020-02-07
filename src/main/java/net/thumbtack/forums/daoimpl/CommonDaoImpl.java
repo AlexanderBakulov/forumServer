@@ -1,4 +1,3 @@
-// REVU никаких заглавных букв в имени пакета!
 package net.thumbtack.forums.daoimpl;
 
 
