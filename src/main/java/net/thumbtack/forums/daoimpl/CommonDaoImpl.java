@@ -8,7 +8,7 @@ import net.thumbtack.forums.mappers.mybatis.CommonMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
-
+//change something
 
 @Component
 public class CommonDaoImpl implements CommonDao {
